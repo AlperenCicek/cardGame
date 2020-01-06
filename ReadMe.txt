@@ -1,1 +1,1 @@
-"The project that I wrote before, to understand github logic."
+The project that I wrote before, to understand github logic.
